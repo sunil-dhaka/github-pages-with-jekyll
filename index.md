@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to SBN CLASSES
 
-I'm glad you are here. I plan to talk about ...
+We are SBN Classes team. THis is an educational platform.
