@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
+theme: minima
+title: SBN CLASSES
+author: Sunil Dhaka
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the offical page of SBN Classes. We are an education platform. Here you can find our all social media pages. And also all 
+  the youtube videos from Hira Dhaka and Er. Gopal Jangir Sir.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
